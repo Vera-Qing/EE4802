@@ -1,3 +1,2 @@
-# EE4802 Group Project Dataset
-# AY22/23 SEM2 
-# NUS
+# AY22/23 SEM2 EE4802 Group Project Dataset
+NUS, ECE @ Ni.QQ
